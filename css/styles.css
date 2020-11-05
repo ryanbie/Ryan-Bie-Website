@@ -23,6 +23,11 @@ p {
   width: 200px;
 }
 
+.footer-link {
+  height: 60px;
+  width: 60px;
+}
+
 .middle-container {
   background-color: red;
   height: 200px;
@@ -43,4 +48,9 @@ p {
   background-color: #eeecda;
   padding-top: 100px;
   position: relative;
+}
+
+.profile-picture {
+  height: 200px;
+  width: 200px;
 }
